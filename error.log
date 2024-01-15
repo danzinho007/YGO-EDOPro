@@ -1,0 +1,104 @@
+[2020-05-02 12:17:44] Exception occurred in repo https://github.com/ProjectIgnis/Puzzles: failed to send request: O nome ou o endereço do servidor não pôde ser resolvido
+
+[2020-05-02 12:17:44] Exception occurred in repo https://github.com/ProjectIgnis/LFLists: failed to send request: O nome ou o endereço do servidor não pôde ser resolvido
+
+[2020-05-02 12:17:44] Exception occurred in repo https://github.com/ProjectIgnis/DeltaHopeHarbinger: failed to send request: O nome ou o endereço do servidor não pôde ser resolvido
+
+[2020-05-02 12:17:44] The repo https://github.com/ProjectIgnis/DeltaHopeHarbinger couldn't be cloned
+[2020-05-02 12:17:44] Error: failed to send request: O nome ou o endereço do servidor não pôde ser resolvido
+
+[2020-05-02 12:17:44] The repo https://github.com/ProjectIgnis/LFLists couldn't be cloned
+[2020-05-02 12:17:44] Error: failed to send request: O nome ou o endereço do servidor não pôde ser resolvido
+
+[2020-05-02 12:17:44] The repo https://github.com/ProjectIgnis/Puzzles couldn't be cloned
+[2020-05-02 12:17:44] Error: failed to send request: O nome ou o endereço do servidor não pôde ser resolvido
+
+[2020-05-02 12:18:30] The repo https://github.com/ProjectIgnis/DeltaHopeHarbinger couldn't be cloned
+[2020-05-02 12:18:30] Error: failed to send request: O nome ou o endereço do servidor não pôde ser resolvido
+
+[2020-05-02 12:18:30] The repo https://github.com/ProjectIgnis/LFLists couldn't be cloned
+[2020-05-02 12:18:30] Error: failed to send request: O nome ou o endereço do servidor não pôde ser resolvido
+
+[2020-05-02 12:18:30] The repo https://github.com/ProjectIgnis/Puzzles couldn't be cloned
+[2020-05-02 12:18:30] Error: failed to send request: O nome ou o endereço do servidor não pôde ser resolvido
+
+[2020-05-15 12:22:43] Warning occurred in repo https://github.com/ProjectIgnis/Puzzles: failed to send request: O tempo limite da operação foi atingido
+
+[2020-05-15 12:39:29] Exception occurred while loading configs.json: [json.exception.parse_error.101] parse error at line 16, column 60: syntax error while parsing value - invalid string: ill-formed UTF-8 byte; last read: '"Project Batata Tradu��'
+[2020-05-15 12:40:04] Exception occurred while loading configs.json: [json.exception.parse_error.101] parse error at line 16, column 60: syntax error while parsing value - invalid string: ill-formed UTF-8 byte; last read: '"Project Batata Tradu��'
+[2020-05-15 12:40:35] Exception occurred while loading configs.json: [json.exception.parse_error.101] parse error at line 16, column 60: syntax error while parsing value - invalid string: ill-formed UTF-8 byte; last read: '"Project Batata Tradu��'
+[2020-05-15 12:41:55] Exception occurred while loading configs.json: [json.exception.parse_error.101] parse error at line 16, column 60: syntax error while parsing value - invalid string: ill-formed UTF-8 byte; last read: '"Project Batata Tradu��'
+[2020-05-15 12:43:53] Exception occurred while loading configs.json: [json.exception.parse_error.101] parse error at line 31, column 60: syntax error while parsing value - invalid string: ill-formed UTF-8 byte; last read: '"Project Batata Tradu��'
+[2020-07-25 15:44:34] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br: could not remove 'C:/Users/PEDRO/Desktop/EDOPro ZDD/config/languages/Português/cards.cdb': O arquivo já está sendo usado por outro processo.
+
+[2020-07-28 21:27:05] The repo https://github.com/ProjectIgnis/DeltaHopeHarbinger couldn't be cloned
+[2020-07-28 21:27:05] Error: failed to resolve path '././repositories/delta': O sistema não pode encontrar o caminho especificado.
+
+[2020-07-28 21:27:06] The repo https://github.com/ProjectIgnis/LFLists couldn't be cloned
+[2020-07-28 21:27:06] Error: failed to resolve path '././repositories/lflists': O sistema não pode encontrar o caminho especificado.
+
+[2020-07-28 21:27:06] The repo https://github.com/ProjectIgnis/Puzzles couldn't be cloned
+[2020-07-28 21:27:06] Error: failed to resolve path '././puzzles/Canon collection': O sistema não pode encontrar o caminho especificado.
+
+[2020-07-28 21:27:06] The repo https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br couldn't be cloned
+[2020-07-28 21:27:06] Error: failed to resolve path '././config/languages': O sistema não pode encontrar o caminho especificado.
+
+[2021-01-12 14:39:01] Exception occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-PTBR: reference 'refs/heads/master' not found
+[2021-01-12 14:39:01] The repo https://github.com/Garoto-Batata/Project-Batata-Translation-PTBR couldn't be cloned
+[2021-01-12 14:39:01] Error: reference 'refs/heads/master' not found
+[2021-01-12 14:40:08] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-PTBR: revspec 'HEAD' not found
+[2021-01-12 14:40:08] Exception occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-PTBR: reference 'refs/heads/master' not found
+[2021-01-12 14:40:08] The repo https://github.com/Garoto-Batata/Project-Batata-Translation-PTBR couldn't be cloned
+[2021-01-12 14:40:08] Error: reference 'refs/heads/master' not found
+[2021-01-12 14:41:07] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-PTBR: revspec 'HEAD' not found
+[2021-01-12 14:41:07] Exception occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-PTBR: reference 'refs/heads/master' not found
+[2021-01-12 14:41:07] The repo https://github.com/Garoto-Batata/Project-Batata-Translation-PTBR couldn't be cloned
+[2021-01-12 14:41:07] Error: reference 'refs/heads/master' not found
+[2021-01-12 14:44:55] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-PTBR: revspec 'HEAD' not found
+[2021-01-12 14:44:55] Exception occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-PTBR: reference 'refs/heads/master' not found
+[2021-01-12 14:44:55] The repo https://github.com/Garoto-Batata/Project-Batata-Translation-PTBR couldn't be cloned
+[2021-01-12 14:44:55] Error: reference 'refs/heads/master' not found
+[2021-02-18 10:34:33] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br: could not remove 'C:/Users/Usuario/Desktop/EDOPro ZDD/config/languages/Português/cards.cdb': O arquivo já está sendo usado por outro processo.
+
+[2021-05-19 21:50:23] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br: could not remove 'C:/Users/Usuario/Desktop/EDOPro ZDD/config/languages/Português/cards.cdb': O arquivo já está sendo usado por outro processo.
+
+[2021-05-25 13:50:43] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br: could not remove 'C:/Users/Usuario/Desktop/EDOPro ZDD/config/languages/Português/cards.cdb': O arquivo já está sendo usado por outro processo.
+
+[2021-07-22 16:28:48] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br: could not remove 'C:/Users/Usuario/Documents/Pastas/EdoproMod/EDOPro ZDD/config/languages/Português/cards.cdb': O arquivo já está sendo usado por outro processo.
+
+[2021-08-19 21:49:19] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br: could not remove 'C:/Users/Usuario/Documents/Pastas/EdoproMod/EDOPro ZDD/config/languages/Português/cards.cdb': O arquivo já está sendo usado por outro processo.
+
+[2021-08-19 21:50:21] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br: could not remove 'C:/Users/Usuario/Documents/Pastas/EdoproMod/EDOPro ZDD/config/languages/Português/cards.cdb': O arquivo já está sendo usado por outro processo.
+
+[2021-12-12 18:18:55] [Erro de script]: [string "./puzzles/Canon collection/Puzzle Creator.lua..."]:16: attempt to call a nil value (global 'require')
+[2021-12-12 18:18:59] [Erro de script]: [string "./puzzles/Canon collection/Puzzle Creator.lua..."]:16: attempt to call a nil value (global 'require')
+[2021-12-12 18:19:06] [Erro de script]: [string "./puzzles/Canon collection/convert to goat.lu..."]:8: attempt to call a nil value (global 'require')
+[2021-12-13 11:32:39] [Erro de script]: [string "./puzzles/Canon collection/Puzzle Creator.lua..."]:16: attempt to call a nil value (global 'require')
+[2021-12-13 11:32:58] [Erro de script]: [string "./puzzles/Canon collection/convert to goat.lu..."]:8: attempt to call a nil value (global 'require')
+[2021-12-13 15:52:14] Exception occurred: Host not resolved
+[2024-01-05 16:34:30] bad allocation
+[2024-01-05 16:34:33] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br: indexer progress callback returned -1
+[2024-01-06 19:49:39] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br: could not remove 'C:/Users/Daniel/Downloads/Letra X Y Z/EDOPro ZDD/config/languages/Português/cards.cdb': O arquivo já está sendo usado por outro processo.
+
+[2024-01-08 19:13:02] [Erro de script]: [string "./puzzles/Canon collection/convert to goat.lu..."]:8: attempt to call a nil value (global 'require')
+[2024-01-09 18:36:29] Warning occurred in repo https://github.com/ProjectIgnis/DeltaPuppetOfStrings: the index is locked; this might be due to a concurrent or crashed process
+[2024-01-09 20:58:13] Exception occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: Undefined error
+[2024-01-09 20:59:10] Exception occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: indexer progress callback returned -1
+[2024-01-10 00:51:02] Exception occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: indexer progress callback returned -1
+[2024-01-10 00:57:26] Exception occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: indexer progress callback returned -1
+[2024-01-10 01:06:06] Exception occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: indexer progress callback returned -1
+[2024-01-10 02:00:27] Exception occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: Undefined error
+[2024-01-10 02:04:04] Exception occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: Undefined error
+[2024-01-10 02:05:30] Exception occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: Undefined error
+[2024-01-10 20:03:36] Exception occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: Undefined error
+[2024-01-10 20:04:09] Exception occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: Undefined error
+[2024-01-10 20:25:21] Exception occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: Undefined error
+[2024-01-10 20:30:22] Exception occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: Undefined error
+[2024-01-11 01:54:58] [Erro de script]: [string "./puzzles/Generated Puzzle 3.lua"]:65: attempt to index a nil value (global 'm_0')
+[2024-01-11 01:55:01] [Erro de script]: [string "./puzzles/Generated Puzzle 3.lua"]:65: attempt to index a nil value (global 'm_0')
+[2024-01-11 01:57:13] [Erro de script]: [string "./puzzles/Generated Puzzle 3.lua"]:65: attempt to index a nil value (global 'm_0')
+[2024-01-11 01:57:21] [Erro de script]: [string "./puzzles/Generated Puzzle 3.lua"]:65: attempt to index a nil value (global 'm_0')
+[2024-01-11 01:58:09] [Erro de script]: [string "./puzzles/Generated Puzzle 3.lua"]:65: attempt to index a nil value (global 'm_0')
+[2024-01-14 18:03:04] Warning occurred in repo https://github.com/ProjectIgnis/DeltaPuppetOfStrings: Undefined error
+[2024-01-14 18:03:06] Warning occurred in repo https://github.com/ProjectIgnis/Puzzles: the index is locked; this might be due to a concurrent or crashed process
+[2024-01-14 18:03:07] Warning occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: the index is locked; this might be due to a concurrent or crashed process
