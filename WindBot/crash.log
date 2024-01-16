@@ -1,0 +1,10 @@
+[24-01-10 21:21:51] Tick Error: System.IO.EndOfStreamException: Não é possível ler depois do fim do fluxo.
+   em System.IO.MemoryStream.InternalReadInt32()
+   em System.IO.BinaryReader.ReadInt32()
+   em WindBot.Game.ClientCard.Update(BinaryReader packet, Duel duel) na D:\a\windbot\windbot\ExecutorBase\Game\ClientCard.cs:linha 117
+   em WindBot.Game.GameBehavior.OnUpdateData(BinaryReader packet)
+   em WindBot.Game.GameBehavior.OnPacket(BinaryReader packet)
+   em WindBot.Game.GameClient.OnPacketReceived(BinaryReader reader)
+   em YGOSharp.Network.BinaryClient.ReceivePendingPackets()
+   em YGOSharp.Network.BinaryClient.Update()
+   em WindBot.Program.Run(Object o)
