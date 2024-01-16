@@ -1,0 +1,4 @@
+lflists: limited / forbidden lists, aka, banlists
+delta: old repository used by edopro in previous versions; unused and it is not read by the game
+delta-utopia: same as above
+delta-puppet: the repository used by the current version, where updates are read from.
