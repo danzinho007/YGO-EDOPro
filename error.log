@@ -102,3 +102,14 @@
 [2024-01-14 18:03:04] Warning occurred in repo https://github.com/ProjectIgnis/DeltaPuppetOfStrings: Undefined error
 [2024-01-14 18:03:06] Warning occurred in repo https://github.com/ProjectIgnis/Puzzles: the index is locked; this might be due to a concurrent or crashed process
 [2024-01-14 18:03:07] Warning occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: the index is locked; this might be due to a concurrent or crashed process
+[2024-01-23 21:50:03] Warning occurred in repo https://github.com/ProjectIgnis/DeltaPuppetOfStrings: failed to lock file 'C:/Users/Daniel/Documents/PC-  Notas/YGO-EDOPro/repositories/delta-puppet/.git/refs/heads/master.lock' for writing: 
+[2024-01-24 16:03:35] [Erro de script]: [string "./puzzles/Tudo.lua"]:57: syntax error near 'em'
+[2024-01-24 16:03:44] [Erro de script]: [string "./puzzles/Tudo.lua"]:57: syntax error near 'em'
+[2024-01-24 16:03:58] [Erro de script]: [string "./puzzles/Tudo.lua"]:57: syntax error near 'em'
+[2024-01-24 16:04:03] [Erro de script]: [string "./puzzles/Tudo.lua"]:57: syntax error near 'em'
+[2024-01-24 16:11:15] [Erro de script]: stack traceback:
+[2024-01-24 16:11:15] [Erro de script]: 	[string "./puzzles/Tudo.lua"]:65: in main chunk
+[2024-01-24 16:11:15] [Erro de script]: "CallCardFunction"(c73335319.initial_effect): attempt to call an error function
+[2024-01-24 16:23:48] [Erro de script]: stack traceback:
+[2024-01-24 16:23:48] [Erro de script]: 	[string "./puzzles/Tudo.lua"]:60: in main chunk
+[2024-01-24 16:23:48] [Erro de script]: "CallCardFunction"(c91130731.initial_effect): attempt to call an error function
