@@ -1,0 +1,45 @@
+
+.commands
+Mostra todos os comandos do bot
+
+Mostra informações da carta
+<carta>
+<CódigoDaCarta>
+
+.c activity
+.c add
+.c attribute
+.c destroy
+.c disable
+.c divine
+.c event
+.c fusion
+.c hand
+.c hint
+.c link
+.c pendulum
+.c race 
+Monstra as raças do jogo
+.c release
+.c remove
+.c summon
+.c synchro
+.c targe
+.c ToDeck
+.c ToGrave
+.c ToHand
+.c type
+Mostra todos os tipos do jogo
+.c xyz
+
+.f Count
+.f Debug
+.f GetHandler
+
+.match palavra
+
+.search carta
+Procura carta
+
+.script carta
+Mostra script da carta
