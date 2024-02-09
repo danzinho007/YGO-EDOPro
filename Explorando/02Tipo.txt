@@ -38,9 +38,6 @@
 [38] 0x20000000 | SUMMON_TYPE_FLIP
 [39] 0x40000000 | SUMMON_TYPE_SPECIAL
 [40] 0x43000000 | SUMMON_TYPE_FUSION
-Bastion
-BOT
- � Hoje �s 04:02
 [41] 0x45000000 | SUMMON_TYPE_RITUAL
 [42] 0x46000000 | SUMMON_TYPE_SYNCHRO
 [43] 0x49000000 | SUMMON_TYPE_XYZ
@@ -52,15 +49,28 @@ BOT
 [49]         15 | CHAININFO_EXTTYPE
 [50]         19 | CHAININFO_TRIGGERING_TYPE
 [51]    28 | CHAININFO_TRIGGERING_SUMMON_TYPE
+
 [52]   0x1 | EFFECT_TYPE_SINGLE
+Efeito único
+Ex : Thunder Nyan Nyan
+
 [53]   0x2 | EFFECT_TYPE_FIELD
+Checa o campo antes de ativar
+Ex : Condemned Maiden
+
 [54]   0x4 | EFFECT_TYPE_EQUIP
+Carta Tipo Equipamento
+
 [55]   0x8 | EFFECT_TYPE_ACTIONS
 [56]  0x10 | EFFECT_TYPE_ACTIVATE
 [57]  0x20 | EFFECT_TYPE_FLIP
 [58]  0x40 | EFFECT_TYPE_IGNITION
 [59]  0x80 | EFFECT_TYPE_TRIGGER_O
+Verificar se pode efetuar a invocação
+
 [60] 0x100 | EFFECT_TYPE_QUICK_O
+Pode ser ativado no mesmo turno que é colocado no campo
+
 [61]      0x200 | EFFECT_TYPE_TRIGGER_F
 [62]      0x400 | EFFECT_TYPE_QUICK_F
 [63]      0x800 | EFFECT_TYPE_CONTINUOUS

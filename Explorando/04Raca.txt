@@ -1,5 +1,7 @@
 [01] 0x3ffffff | RACE_ALL
 [02]       0x1 | RACE_WARRIOR
+Raça tipo Guerreiro 
+
 [03]       0x2 | RACE_SPELLCASTER
 [04]       0x4 | RACE_FAIRY
 [05]       0x8 | RACE_FIEND

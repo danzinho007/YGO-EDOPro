@@ -1,10 +1,10 @@
 
 .commands
-Mostra todos os comandos do bot
+Mostra todos os comandos do bot Bastion
 
-Mostra informações da carta
+Mostra informaï¿½ï¿½es da carta
 <carta>
-<CódigoDaCarta>
+<Cï¿½digoDaCarta>
 
 .c activity
 .c add
@@ -19,7 +19,7 @@ Mostra informações da carta
 .c link
 .c pendulum
 .c race 
-Monstra as raças do jogo
+Monstra as raï¿½as do jogo
 .c release
 .c remove
 .c summon
