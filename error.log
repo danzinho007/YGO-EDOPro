@@ -113,3 +113,11 @@
 [2024-01-24 16:23:48] [Erro de script]: stack traceback:
 [2024-01-24 16:23:48] [Erro de script]: 	[string "./puzzles/Tudo.lua"]:60: in main chunk
 [2024-01-24 16:23:48] [Erro de script]: "CallCardFunction"(c91130731.initial_effect): attempt to call an error function
+[2024-02-05 00:36:19] Warning occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: corrupted loose reference file: FETCH_HEAD
+[2024-02-05 00:36:19] Warning occurred in repo https://github.com/ProjectIgnis/LFLists: corrupted loose reference file: FETCH_HEAD
+[2024-02-05 00:36:20] Warning occurred in repo https://github.com/ProjectIgnis/DeltaPuppetOfStrings: Undefined error
+[2024-02-08 15:31:14] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br: could not remove 'C:/Users/Daniel/Documents/PC-  Notas/YGO-EDOPro/config/languages/Português/cards.cdb': O arquivo já está sendo usado por outro processo.
+
+[2024-02-09 02:00:54] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br: could not remove 'C:/Users/Daniel/Documents/PC-  Notas/YGO-EDOPro/config/languages/Português/cards.cdb': O arquivo já está sendo usado por outro processo.
+
+[2024-02-09 02:44:27] Error when loading database (./config/languages/Português/cards.cdb): no such table: texts
