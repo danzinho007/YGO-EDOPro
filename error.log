@@ -121,3 +121,6 @@
 [2024-02-09 02:00:54] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br: could not remove 'C:/Users/Daniel/Documents/PC-  Notas/YGO-EDOPro/config/languages/Português/cards.cdb': O arquivo já está sendo usado por outro processo.
 
 [2024-02-09 02:44:27] Error when loading database (./config/languages/Português/cards.cdb): no such table: texts
+[2024-05-06 02:09:24] Warning occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: Undefined error
+[2024-07-21 06:30:48] Warning occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: Undefined error
+[2024-08-02 08:22:08] Warning occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: Undefined error
