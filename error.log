@@ -132,3 +132,8 @@
 
 [2025-03-26 15:37:21] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br: could not remove 'C:/Users/Daniel/Documents/PC-  Notas/YGO-EDOPro/config/languages/Português/cards.cdb': O arquivo já está sendo usado por outro processo.
 
+[2025-03-30 18:04:21] Warning occurred in repo https://github.com/ProjectIgnis/LFLists: corrupted loose reference file: FETCH_HEAD
+[2025-03-30 18:04:23] Warning occurred in repo https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br: the index is locked; this might be due to a concurrent or crashed process
+[2025-03-30 18:04:28] Warning occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: the index is locked; this might be due to a concurrent or crashed process
+[2025-03-30 18:04:54] Warning occurred in repo https://github.com/ProjectIgnis/DeltaPuppetOfStrings: the index is locked; this might be due to a concurrent or crashed process
+[2025-03-30 18:04:54] Warning occurred in repo https://github.com/ProjectIgnis/DeltaPuppetOfStrings: the index is locked; this might be due to a concurrent or crashed process
