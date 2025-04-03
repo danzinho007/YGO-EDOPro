@@ -157,3 +157,7 @@ EFFECT_MUST_ATTACK                  = 191
 EFFECT_FIRST_ATTACK                 = 192
 EFFECT_ATTACK_ALL                   = 193
 EFFECT_EXTRA_ATTACK                 = 194
+
+[01] 0x10 | EFFECT_FLAG_CARD_TARGET
+The effect includes targeting a card
+ 

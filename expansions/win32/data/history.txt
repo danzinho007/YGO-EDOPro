@@ -1,0 +1,4 @@
+# database history
+C:\Users\Daniel\Documents\PC-  Notas\YGO-EDOPro\expansions\MinhaDatabase.cdb
+C:\Users\Daniel\Documents\PC-  Notas\YGO-EDOPro\expansions\cards-unofficial.cdb
+# script history

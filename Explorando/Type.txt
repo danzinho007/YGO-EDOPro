@@ -64,7 +64,13 @@ Carta Tipo Equipamento
 [55]   0x8 | EFFECT_TYPE_ACTIONS
 [56]  0x10 | EFFECT_TYPE_ACTIVATE
 [57]  0x20 | EFFECT_TYPE_FLIP
+
 [58]  0x40 | EFFECT_TYPE_IGNITION
+Um efeito que o jogador do turno escolhe aplicar durante sua Main Phase, em um estado de jogo aberto. É Speed ​​Spell 1
+Exemplo: Link 1 Aranha Atq1000
+1 monstro normal
+Uma vez por turno: pode invocar por Invocacao-Especial 1 monstro normal de nivel 4 ou menor da mao para uma zona a qual este card apontar
+
 [59]  0x80 | EFFECT_TYPE_TRIGGER_O
 Verificar se pode efetuar a invocação
 
