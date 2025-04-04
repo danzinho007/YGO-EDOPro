@@ -137,3 +137,151 @@
 [2025-03-30 18:04:28] Warning occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: the index is locked; this might be due to a concurrent or crashed process
 [2025-03-30 18:04:54] Warning occurred in repo https://github.com/ProjectIgnis/DeltaPuppetOfStrings: the index is locked; this might be due to a concurrent or crashed process
 [2025-03-30 18:04:54] Warning occurred in repo https://github.com/ProjectIgnis/DeltaPuppetOfStrings: the index is locked; this might be due to a concurrent or crashed process
+[2025-04-03 19:44:48] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:44:48] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:44:48] [Erro de script]: [string "c999.lua"]:11: <name> expected near 'end'
+[2025-04-03 19:44:48] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:44:48] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:44:48] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:44:48] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:44:48] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:44:48] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:45:07] [Erro de script]: [string "c999.lua"]:11: <name> expected near 'end'
+[2025-04-03 19:45:07] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:45:07] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:45:07] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:45:07] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:45:07] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:45:07] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:45:07] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:45:07] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:45:24] [Erro de script]: [string "c999.lua"]:11: <name> expected near 'end'
+[2025-04-03 19:45:24] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:45:24] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:45:24] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:45:24] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:45:24] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:45:24] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:45:24] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:45:24] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:46:02] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:46:02] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:46:02] [Erro de script]: [string "c999.lua"]:11: <name> expected near 'end'
+[2025-04-03 19:46:02] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:46:02] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:46:02] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:46:02] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:46:02] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:46:02] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:46:02] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:46:02] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:46:02] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:46:02] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:46:24] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:46:24] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:46:24] [Erro de script]: [string "c999.lua"]:11: <name> expected near 'end'
+[2025-04-03 19:46:24] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:46:24] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:46:24] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:46:24] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:46:24] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:46:24] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:46:24] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:46:24] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:46:24] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:46:24] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:48:23] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:48:23] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:48:23] [Erro de script]: [string "c999.lua"]:11: <name> expected near 'end'
+[2025-04-03 19:48:23] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:48:23] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:48:23] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:48:23] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:48:23] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:48:23] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:48:23] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:48:23] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:48:23] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:48:23] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 19:50:49] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:50:49] [Erro de script]: [string "c999.lua"]:11: <name> expected near 'end'
+[2025-04-03 19:50:49] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:50:49] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:50:49] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:50:49] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:50:49] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:52:29] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:52:29] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:52:29] [Erro de script]: [string "c999.lua"]:11: <name> expected near 'end'
+[2025-04-03 19:52:29] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:52:29] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:52:29] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:52:29] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:52:48] [Erro de script]: [string "c999.lua"]:11: <name> expected near 'end'
+[2025-04-03 19:52:48] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:52:48] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:52:48] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:52:48] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:52:48] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:52:48] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:53:08] [Erro de script]: [string "c999.lua"]:11: <name> expected near 'end'
+[2025-04-03 19:53:08] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:53:08] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:53:08] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:53:08] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:53:08] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:53:08] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:53:33] [Erro de script]: [string "c999.lua"]:11: <name> expected near 'end'
+[2025-04-03 19:53:33] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:53:33] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:53:33] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:53:33] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:53:33] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:53:33] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:54:06] [Erro de script]: [string "c999.lua"]:11: <name> expected near 'end'
+[2025-04-03 19:54:06] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:54:06] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:54:06] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:54:06] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:54:06] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:54:06] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:54:16] [Erro de script]: [string "c999.lua"]:11: <name> expected near 'end'
+[2025-04-03 19:54:16] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:54:16] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:54:16] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:54:16] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:54:16] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:54:16] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:54:49] [Erro de script]: [string "c999.lua"]:11: <name> expected near 'end'
+[2025-04-03 19:54:49] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:54:49] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:54:49] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 19:54:49] [Erro de script]: "CallCardFunction"(c999.initial_effect): attempt to call an error function
+[2025-04-03 19:54:49] [Erro de script]: "CallCardFunction"(c2.initial_effect): attempt to call an error function
+[2025-04-03 19:54:49] [Erro de script]: "CallCardFunction"(c1.initial_effect): attempt to call an error function
+[2025-04-03 20:00:43] [Erro de script]: [string "c111000001.lua"]:16: attempt to index a nil value (global 'e2')
+[2025-04-03 20:00:43] [Erro de script]: [string "c111000001.lua"]:16: attempt to index a nil value (global 'e2')
+[2025-04-03 20:00:43] [Erro de script]: [string "c111000001.lua"]:16: attempt to index a nil value (global 'e2')
+[2025-04-03 20:00:43] [Erro de script]: [string "c111000001.lua"]:16: attempt to index a nil value (global 'e2')
+[2025-04-03 20:00:43] [Erro de script]: [string "c111000001.lua"]:16: attempt to index a nil value (global 'e2')
+[2025-04-03 20:00:43] [Erro de script]: [string "c111000001.lua"]:16: attempt to index a nil value (global 'e2')
+[2025-04-03 20:29:03] [Erro de script]: [string "c111000001.lua"]:19: unexpected symbol near 'and'
+[2025-04-03 20:29:03] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 20:29:03] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 20:29:03] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 20:29:03] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 20:29:39] [Erro de script]: [string "c111000001.lua"]:19: unexpected symbol near 'and'
+[2025-04-03 20:29:39] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 20:29:39] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 20:29:39] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 20:29:39] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 20:30:34] [Erro de script]: [string "c111000001.lua"]:19: unexpected symbol near 'and'
+[2025-04-03 20:30:34] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 20:30:34] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 20:30:34] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 20:30:34] [Erro de script]: "CallCardFunction"(c111000001.initial_effect): attempt to call an error function
+[2025-04-03 21:35:07] [Erro de script]: stack traceback:
+[2025-04-03 21:35:07] [Erro de script]: 	[string "c111000001.lua"]:37: in function <[string "c111000001.lua"]:27>
+[2025-04-03 21:35:07] [Erro de script]: [string "c111000001.lua"]:37: Parameter 2 should be "Int" but is "nil".
+[2025-04-04 15:34:48] [Erro de script]: [string "c111000002.lua"]:22: attempt to call a nil value (field 'MoveToHand')
+[2025-04-04 15:36:04] [Erro de script]: [string "c111000002.lua"]:24: attempt to call a nil value (field 'MoveToHand')
