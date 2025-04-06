@@ -1,3 +1,42 @@
+--Lista ordem alfabética:
+--Jar of Greed = 003
+--Link Aranha = 001
+--Pot of Greed = 004
+--Skelengel = 05
+--Tiragon Bebê = 002
+
+--Resumo:
+--001 Link Aranha
+--002 Tiragon Bebê
+--003 Jar of Greed
+--004 Pot of Greed
+--005 Skelengel
+--006
+--007
+--008
+--009
+--010
+--011
+--012
+--013
+--014
+--015
+--016
+--017
+--018
+--019
+--020
+--021
+--022
+--023
+--024
+--025
+--026
+--027
+--028
+--029
+--030
+
 --Link Aranha
 local s,id=GetID()
 function s.initial_effect()
@@ -94,7 +133,8 @@ function s.operation(e,tp,eg,ep,ev,re,r,rp,chk)
 end
 ================================
 Exercicio 03
---強欲な瓶
+--強欲な瓶 / Jar of Greed
+--Arm-Compre 1 carta
 local s,id=GetID()
 function s.initial_effect(c)
 	--Activate
@@ -122,6 +162,8 @@ end
 Exercicio 04
 --強欲な壺
 --Pot of Greed
+--Magia Normal 
+--Compre 2 cartas
 local s,id=GetID()
 function s.initial_effect(c)
 	--Activate
@@ -145,3 +187,6 @@ function s.activate(e,tp,eg,ep,ev,re,r,rp)
 	local p,d=Duel.GetChainInfo(0,CHAININFO_TARGET_PLAYER,CHAININFO_TARGET_PARAM)
 	Duel.Draw(p,d,REASON_EFFECT)
 end
+
+=======================================================
+Exercicio 05

@@ -1,49 +1,36 @@
 --Modelo Raiz:
---Nome em Japones / Nome em Ingles / Nome em Portugues
---Exemplo ??: Nome da Carta
---Categoria da carta / Atributo / Tipo / Ataque / Defesa
---Quantos monstros pra ser invocado ?
---Efeito da carta
+--Nome em Japones / Jar of Greed / Nome em Portugues
+--Exemplo 03: 
+--Armadilha
+--Efeito > Vira : Compre 1 carta
 local s,id=GetID()
 function s.initial_effect()
 --Invocação Link (Requisitos)
-	Link.AddProcedure(c,aux.FilterBoolFunctionEx(Card.IsType,TYPE_NORMAL),1,1)
-    c:EnableReviveLimit()
+	--Link.AddProcedure(c,aux.FilterBoolFunctionEx(Card.IsType,TYPE_NORMAL),1,1)
+    --c:EnableReviveLimit()
 --Invocação XYZ (Requisitos)
-	Xyz.AddProcedure(c,nil,1,3)
-	c:EnableReviveLimit()
+	--Xyz.AddProcedure(c,nil,1,3)
+	--c:EnableReviveLimit()
 	local e1=Effect.CreateEffect(c)
-	e1:SetDescription(aux.String(id,0))
-	e1:SetDescription(aux.String(id,1))
-	e1:SetCategory()
-	e1:SetType()
-    e1:SetProperty()
-	e1:SetRange()
-	e1:SetCountLimit()
+	--e1:SetDescription(aux.String(id,0))
+	e1:SetCategory(CATEGORY_DRAW)
+	e1:SetType(EFFECT_TYPE_ACTIVATE)
+    e1:SetProperty(EFFECT_FLAG_PLAYER_TARGET)
+	--e1:SetRange()
+	e1:SetCode(EVENT_FREE_CHAIN)
+	--e1:SetCondition(s.condition)
+    --e1:SetCost(s.cost)
+	--e1:SetCountLimit()
 -	e1:SetTarget(s.target)
 	e1:SetOperation(s.operation)
-function s.condition(e,tp,eg,ep,ev,re,r,rp)
-    return Duel.GetCurrentPhase()
-end  
-function s.cost(e,tp,eg,ep,ev,re,r,rp,chk)
-    if chk==0 then return ... end
-end
-function s.filter(c,e,tp,zone)
-	return c:IsLevelBelow(4)
-end
 function s.target(e,tp,eg,ep,ev,re,r,rp,chk)
-    if chk==0 then
-        local 
-        return
+    if chk==0 then return Duel.IsPlayerCanDraw(tp,1) end
+        Duel.SetTargetPlayer(tp)
+        Duel.SetTargetParam(1)
+		Duel.SetOperationInfo(0,CATEGORY_DRAW,nil,0,tp,1)
     end
-    Duel.SetOperationInfo()
 end
-function s.operation(e,tp,eg,ep,ev,re,r,rp)
-	local
-	if
-	Duel.Hint()
-	local
-	if
-		Duel.SpecialSummon()
-	end
+function s.activate(e,tp,eg,ep,ev,re,r,rp)
+	local p,d=Duel.GetChainInfo(0,CHAININFO_TARGET_PLAYER,CHAININFO_TARGET_PARAM)
+	Duel.Draw(p,d,REASON_EFFECT)
 end
