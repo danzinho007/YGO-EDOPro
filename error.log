@@ -499,3 +499,14 @@
 [2025-04-08 05:52:46] [Erro de script]: [string "c111999011.lua"]:23: Parameter 2 should be "Function" but is "nil".
 [2025-04-08 05:53:23] [Erro de script]: [string "c111999011.lua"]:23: Parameter 2 should be "Function" but is "nil".
 [2025-04-08 05:53:23] [Erro de script]: [string "c111999011.lua"]:23: Parameter 2 should be "Function" but is "nil".
+[2025-04-12 22:12:26] Warning occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: the index is locked; this might be due to a concurrent or crashed process
+[2025-04-12 22:12:33] Warning occurred in repo https://github.com/ProjectIgnis/DeltaPuppetOfStrings: the index is locked; this might be due to a concurrent or crashed process
+[2025-04-12 22:50:00] [Erro de script]: stack traceback:
+[2025-04-12 22:50:00] [Erro de script]: 	[string "./puzzles/Generated Puzzle10.lua"]:28: in main chunk
+[2025-04-12 22:50:00] [Erro de script]: "CallCardFunction"(c23557833.initial_effect): attempt to call an error function
+[2025-04-12 22:51:26] [Erro de script]: stack traceback:
+[2025-04-12 22:51:26] [Erro de script]: 	[string "./puzzles/Generated Puzzle10.lua"]:28: in main chunk
+[2025-04-12 22:51:26] [Erro de script]: "CallCardFunction"(c23557833.initial_effect): attempt to call an error function
+[2025-04-12 22:51:51] [Erro de script]: stack traceback:
+[2025-04-12 22:51:51] [Erro de script]: 	[string "./puzzles/Generated Puzzle10.lua"]:28: in main chunk
+[2025-04-12 22:51:51] [Erro de script]: "CallCardFunction"(c23557833.initial_effect): attempt to call an error function
