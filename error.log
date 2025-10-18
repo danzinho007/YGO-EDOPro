@@ -510,3 +510,7 @@
 [2025-04-12 22:51:51] [Erro de script]: stack traceback:
 [2025-04-12 22:51:51] [Erro de script]: 	[string "./puzzles/Generated Puzzle10.lua"]:28: in main chunk
 [2025-04-12 22:51:51] [Erro de script]: "CallCardFunction"(c23557833.initial_effect): attempt to call an error function
+[2025-05-06 16:36:41] Warning occurred in repo https://github.com/Yoshi80/Rush-HD-Pictures: failed to resolve address for github.com: Este host nao e conhecido. 
+
+[2025-05-06 16:36:41] Warning occurred in repo https://github.com/ProjectIgnis/Puzzles: failed to resolve address for github.com: Este host nao e conhecido. 
+[2025-05-06 16:36:41] Warning occurred in repo https://github.com/ProjectIgnis/LFLists: failed to resolve address for github.com: Este host nao e conhecido. 
