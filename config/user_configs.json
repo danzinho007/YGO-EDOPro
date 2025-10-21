@@ -1,24 +1,32 @@
 {
-	"repos": [
-		{
-			"url": "https://github.com/Yoshi80/Rush-HD-Pictures",
-			"repo_name": "Rush Duel HD Card Project",
-			"repo_path": "./repositories/rush-hd",
-			"has_core": false,
-			"data_path": "",
-			"script_path": "script",
-			"pics_path": "pics",
-			"expansions_path": "expansions",
-			"should_update": true,
-			"should_read": true
-		}
-	],
-	"urls": [
-		{
-            "url": "https://raw.githubusercontent.com/Yoshi80/Rush-HD-Pictures/master/pics/field/{}.png",
-            "type": "field"
-        }
-	],
-	"servers": [],
-	"posixPathExtension": "/usr/local/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands"
+  "repos": [
+    {
+	  "url": "https://github.com/ryoken08/CDBEsp",
+	  "repo_name": "Traducción a Español",
+	  "repo_path": "./config/languages/Español",
+      "is_language": true,
+      "language": "",
+      "data_path": "",
+      "should_update": true,
+      "should_read": true
+		},
+    {
+      "url": "https://github.com/termitaklk/lflist",
+      "repo_name": "Formatos Evolution",
+      "repo_path": "./repositories/evolution/lflists",
+      "lflist_path": ".",
+      "should_update": true,
+      "should_read": true
+    }
+  ],
+  "servers": [
+    {
+      "name": "Evolution Server",
+      "address": "server.evolutionygo.com",
+      "duelport": 7911,
+      "roomaddress": "server.evolutionygo.com",
+      "roomlistprotocol": "http",
+      "roomlistport": 7922
+    }
+  ]
 }
