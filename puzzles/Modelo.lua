@@ -1,5 +1,3 @@
---Created using senpaizuri's Puzzle Maker (updated by Naim & Larry126)
---Partially rewritten by edo9300
 --Criado por DanMorishima ( Github : danzinho007 )
 
 --[[message
@@ -13,16 +11,16 @@ You can also basish any number of "Attraction" Trap Cards from your Graveyard to
 Debug.SetAIName("Tour Guide From the Underworld") --Nome do Oponente
 Debug.ReloadFieldBegin(DUEL_ATTACK_FIRST_TURN+DUEL_SIMPLE_AI,5)
 Debug.SetPlayerInfo(0,6000,0,0) -- Seus pontos de vida
-Debug.SetPlayerInfo(1,6000,0,0) -- Pontos de Vida do oponente
+Debug.SetPlayerInfo(1,8000,0,0) -- Pontos de Vida do oponente
 Debug.ShowHint("Vença em 1 turno!") --Mensagem que vai aparecer, a pessoa precisa clicar em OK pra continuar
 
---Main Deck (yours)
+--Main Deck (yours) No seu deck
 Debug.AddCard(46986414,0,0,LOCATION_DECK,0,POS_FACEDOWN)
 
---Extra Deck (yours)
+--Extra Deck (yours) Zona do Extra
 Debug.AddCard(5829717,0,0,LOCATION_EXTRA,0,POS_FACEDOWN)
 
---Hand (yours)
+--Hand (yours) Sua mão
 Debug.AddCard(46986414,0,0,LOCATION_HAND,0,POS_FACEDOWN)
 
 --GY (yours)
@@ -43,6 +41,7 @@ Debug.AddCard(43785278,0,0,LOCATION_PZONE,0,POS_FACEUP)
 Debug.AddCard(65518099,0,0,LOCATION_PZONE,1,POS_FACEUP)
 Debug.AddCard(55144522,0,0,LOCATION_SZONE,2,POS_FACEDOWN)
 Debug.AddCard(22702055,0,0,LOCATION_FZONE,0,POS_FACEUP)
+Debug.AddCard(22702055,1,1,LOCATION_FZONE,3,POS_FACEUP)
 
 --OPONENTE
 --Main Deck (opponent's)

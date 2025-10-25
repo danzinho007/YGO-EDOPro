@@ -1,2 +1,0 @@
-[01] Card | Effect.GetHandler(Effect e)
-[02]  int | Effect.GetHandlerPlayer(Effect e)
